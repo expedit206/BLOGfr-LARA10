@@ -33,5 +33,6 @@
     </ul>
 
 </ul>
+<br>
 {{ $posts->links() }}
 @endsection
